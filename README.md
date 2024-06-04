@@ -15,7 +15,7 @@ I'm confirmTrouble, a passionate developer from planet Earth. Welcome to my humb
 
 **Languages**
 
-<img width=auto height=100 src=https://github.com/confirmTrouble/confirmTrouble/assets/171641637/256f6f9e-60c0-46d4-9784-a8df4616aae1>
+<img style="width:auto;height:100px;border:100px;" src=https://github.com/confirmTrouble/confirmTrouble/assets/171641637/256f6f9e-60c0-46d4-9784-a8df4616aae1>
 <img width=auto height=100 src=https://github.com/confirmTrouble/confirmTrouble/assets/171641637/e9f1722b-4e4b-40d5-b60e-78f4ebbd1fa7>
 
 **Frameworks/Libraries**
@@ -33,7 +33,7 @@ I'm confirmTrouble, a passionate developer from planet Earth. Welcome to my humb
 <img width=auto height=100 src=https://github.com/confirmTrouble/confirmTrouble/assets/171641637/f7144455-6c26-4304-8e80-ad72220d367f>
 <img width=auto height=100 src=https://github.com/confirmTrouble/confirmTrouble/assets/171641637/8885d416-8abd-4023-8f67-f75f33d3ee09>
 
-
+<!--
 ## My Projects
 
 Here are some projects I've been working on:
@@ -47,13 +47,13 @@ Here are some projects I've been working on:
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)
 
-<!--
+
 ## Let's Connect
 
 - [LinkedIn](link-to-your-linkedin-profile)
 - [Twitter](link-to-your-twitter-profile)
 - [Website/Blog](link-to-your-website-or-blog)
 --!>
-
-Feel free to reach out and connect! 😊
-Happy coding 😊
+<
+<p><br>Feel free to reach out and connect! 😊<br>
+Happy coding 😊</p>
