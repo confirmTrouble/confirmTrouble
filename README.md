@@ -16,22 +16,26 @@ I'm confirmTrouble, a passionate developer from planet Earth. Welcome to my humb
 **Languages**
 
 <img style="width:auto;height:100px;border:100px;" src=https://github.com/confirmTrouble/confirmTrouble/assets/171641637/256f6f9e-60c0-46d4-9784-a8df4616aae1>
-<img width=auto height=100 src=https://github.com/confirmTrouble/confirmTrouble/assets/171641637/e9f1722b-4e4b-40d5-b60e-78f4ebbd1fa7>
+<img width=auto height=100 src=https://github.com/confirmTrouble/confirmTrouble/assets/171641637/eb1eb32a-059b-4754-b9e0-8ae821357216>
+<img width=auto height=100 src=https://github.com/confirmTrouble/confirmTrouble/assets/171641637/9864f748-4306-488c-ae09-15ab16575ffd>
+<img width=auto height=100 src=https://github.com/confirmTrouble/confirmTrouble/assets/171641637/d2d7e479-b1d1-4dad-9cc3-6deb4a844cba>
 
 **Frameworks/Libraries**
 
-<img width=auto height=100 src=https://github.com/confirmTrouble/confirmTrouble/assets/171641637/e5e5b26b-925f-4acc-9522-c40aff9d0fea>
+<img width=auto height=100 src=https://github.com/confirmTrouble/confirmTrouble/assets/171641637/d0fec039-1503-4193-b079-f8cb0ecae292>
+<img width=auto height=100 src=https://github.com/confirmTrouble/confirmTrouble/assets/171641637/8f675c98-b65d-423a-97b2-82b3f598c11c>
 
 **Databases**
 
-<img width=auto height=100 src=https://github.com/confirmTrouble/confirmTrouble/assets/171641637/3ef6ad03-0971-4e80-8ac7-64fe169701b9>
+<img width=auto height=100 src=https://github.com/confirmTrouble/confirmTrouble/assets/171641637/6709e171-a966-4665-8c77-b1142adc99ca>
 
 **Tools**
 
-<img width=auto height=100 src=https://github.com/confirmTrouble/confirmTrouble/assets/171641637/bcac4335-a0bf-48b5-8b36-2c87a90e2749>
-<img width=auto height=100 src=https://github.com/confirmTrouble/confirmTrouble/assets/171641637/acd45302-a739-4978-81c1-737f76ef8e80>
-<img width=auto height=100 src=https://github.com/confirmTrouble/confirmTrouble/assets/171641637/f7144455-6c26-4304-8e80-ad72220d367f>
-<img width=auto height=100 src=https://github.com/confirmTrouble/confirmTrouble/assets/171641637/8885d416-8abd-4023-8f67-f75f33d3ee09>
+<img width=auto height=100 src=https://github.com/confirmTrouble/confirmTrouble/assets/171641637/10c645c6-92af-4cf7-a231-8caf8dd48cfc>
+<img width=auto height=100 src=https://github.com/confirmTrouble/confirmTrouble/assets/171641637/0bfa19a5-b9b0-438f-959a-c447524dce80>
+<img width=auto height=100 src=https://github.com/confirmTrouble/confirmTrouble/assets/171641637/0c25b13a-85df-4c57-9173-c5d6ababb3ad>
+<img width=auto height=100 src=https://github.com/confirmTrouble/confirmTrouble/assets/171641637/f5339afb-198b-46a7-9c3b-945f834b0b06>
+<img width=auto height=100 src=https://github.com/confirmTrouble/confirmTrouble/assets/171641637/88d1073e-65a9-4ea1-b711-0d108cbd2ea2>
 
 <!--
 ## My Projects
@@ -54,6 +58,6 @@ Here are some projects I've been working on:
 - [Twitter](link-to-your-twitter-profile)
 - [Website/Blog](link-to-your-website-or-blog)
 --!>
-<
+
 <p><br>Feel free to reach out and connect! 😊<br>
 Happy coding 😊</p>
